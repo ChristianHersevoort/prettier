@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`char_entities.js 1`] = `
+"var next = '&rarr;';
+var prev = '&larr;';
+var spaces = '&nbsp;&nbsp;&nbsp;&nbsp;';
+var spaces2 = ' &nbsp; &nbsp; ';
+var amp = '&amp;';
+var iquest = '&iquest;'
+var ae = '&AElig;'
+var euml = '&euml;'
+var hearts	= 'I &hearts; Prettier';
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+var next = \\"&rarr;\\";
+var prev = \\"&larr;\\";
+var spaces = \\"&nbsp;&nbsp;&nbsp;&nbsp;\\";
+var spaces2 = \\" &nbsp; &nbsp; \\";
+var amp = \\"&amp;\\";
+var iquest = \\"&iquest;\\";
+var ae = \\"&AElig;\\";
+var euml = \\"&euml;\\";
+var hearts = \\"I &hearts; Prettier\\";
+"
+`;
+
+exports[`char_entities.js 2`] = `
+"var next = '&rarr;';
+var prev = '&larr;';
+var spaces = '&nbsp;&nbsp;&nbsp;&nbsp;';
+var spaces2 = ' &nbsp; &nbsp; ';
+var amp = '&amp;';
+var iquest = '&iquest;'
+var ae = '&AElig;'
+var euml = '&euml;'
+var hearts	= 'I &hearts; Prettier';
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+var next = \\"&rarr;\\";
+var prev = \\"&larr;\\";
+var spaces = \\"&nbsp;&nbsp;&nbsp;&nbsp;\\";
+var spaces2 = \\" &nbsp; &nbsp; \\";
+var amp = \\"&amp;\\";
+var iquest = \\"&iquest;\\";
+var ae = \\"&AElig;\\";
+var euml = \\"&euml;\\";
+var hearts = \\"I &hearts; Prettier\\";
+"
+`;
+
+exports[`char_entities.js 3`] = `
+"var next = '&rarr;';
+var prev = '&larr;';
+var spaces = '&nbsp;&nbsp;&nbsp;&nbsp;';
+var spaces2 = ' &nbsp; &nbsp; ';
+var amp = '&amp;';
+var iquest = '&iquest;'
+var ae = '&AElig;'
+var euml = '&euml;'
+var hearts	= 'I &hearts; Prettier';
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+var next = \\"&rarr;\\";
+var prev = \\"&larr;\\";
+var spaces = \\"&nbsp;&nbsp;&nbsp;&nbsp;\\";
+var spaces2 = \\" &nbsp; &nbsp; \\";
+var amp = \\"&amp;\\";
+var iquest = \\"&iquest;\\";
+var ae = \\"&AElig;\\";
+var euml = \\"&euml;\\";
+var hearts = \\"I &hearts; Prettier\\";
+"
+`;
+
+exports[`char_entities_jsx.js 1`] = `
+"<Next>&rarr;</Next>;
+<Prev>&larr;</Prev>;
+<Spaces>&nbsp;&nbsp;&nbsp;&nbsp;</Spaces>;
+<Spaces2> &nbsp; &nbsp; </Spaces2>;
+<Amp>&amp;</Amp>;
+<Iquest>&iquest;</Iquest>;
+<AE>&AElig;</AE>;
+<Euml>&emul;</Euml>;
+<Hearts>I &hearts; Prettier</Hearts>;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<Next>&rarr;</Next>;
+<Prev>&larr;</Prev>;
+<Spaces>&nbsp;&nbsp;&nbsp;&nbsp;</Spaces>;
+<Spaces2> &nbsp; &nbsp; </Spaces2>;
+<Amp>&amp;</Amp>;
+<Iquest>&iquest;</Iquest>;
+<AE>&AElig;</AE>;
+<Euml>&emul;</Euml>;
+<Hearts>I &hearts; Prettier</Hearts>;
+"
+`;
+
+exports[`char_entities_jsx.js 2`] = `
+"<Next>&rarr;</Next>;
+<Prev>&larr;</Prev>;
+<Spaces>&nbsp;&nbsp;&nbsp;&nbsp;</Spaces>;
+<Spaces2> &nbsp; &nbsp; </Spaces2>;
+<Amp>&amp;</Amp>;
+<Iquest>&iquest;</Iquest>;
+<AE>&AElig;</AE>;
+<Euml>&emul;</Euml>;
+<Hearts>I &hearts; Prettier</Hearts>;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<Next>&rarr;</Next>;
+<Prev>&larr;</Prev>;
+<Spaces>&nbsp;&nbsp;&nbsp;&nbsp;</Spaces>;
+<Spaces2> &nbsp; &nbsp; </Spaces2>;
+<Amp>&amp;</Amp>;
+<Iquest>&iquest;</Iquest>;
+<AE>&AElig;</AE>;
+<Euml>&emul;</Euml>;
+<Hearts>I &hearts; Prettier</Hearts>;
+"
+`;
+
+exports[`char_entities_jsx.js 3`] = `
+"<Next>&rarr;</Next>;
+<Prev>&larr;</Prev>;
+<Spaces>&nbsp;&nbsp;&nbsp;&nbsp;</Spaces>;
+<Spaces2> &nbsp; &nbsp; </Spaces2>;
+<Amp>&amp;</Amp>;
+<Iquest>&iquest;</Iquest>;
+<AE>&AElig;</AE>;
+<Euml>&emul;</Euml>;
+<Hearts>I &hearts; Prettier</Hearts>;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<Next>&rarr;</Next>;
+<Prev>&larr;</Prev>;
+<Spaces>&nbsp;&nbsp;&nbsp;&nbsp;</Spaces>;
+<Spaces2> &nbsp; &nbsp; </Spaces2>;
+<Amp>&amp;</Amp>;
+<Iquest>&iquest;</Iquest>;
+<AE>&AElig;</AE>;
+<Euml>&emul;</Euml>;
+<Hearts>I &hearts; Prettier</Hearts>;
+"
+`;
